@@ -27,8 +27,8 @@ nav {
 }
 
 nav li {
-	display: inline; /* exibir somente o tamanho do conteúdo dele */
-	margin: 0 0 0 15px; /* topo, direita, embaixo, esquerda */
+	display: inline; 
+	margin: 0 0 0 15px; 
 }
 
 nav a {
@@ -71,9 +71,9 @@ h2 {
 	margin-left: 10%;
 	width: 30%;
 	text-align: center;
-	box-sizing: border-box; /* ajustou a borda */
+	box-sizing: border-box; 
 	padding: 10px 10px;
-	border: 2px solid #E9967A;	/* Tipos de borda: solid, dashed, dotted */
+	border: 2px solid #E9967A;	
 	border-radius: 20px;
 }
 
@@ -82,9 +82,9 @@ h2 {
 	margin-left: 60%;
 	width: 30%;
 	text-align: center;
-	box-sizing: border-box; /* ajustou a borda */
+	box-sizing: border-box;
 	padding: 10px 10px;
-	border: 2px solid #E9967A;	/* Tipos de borda: solid, dashed, dotted */
+	border: 2px solid #E9967A;	
 	border-radius: 20px;
 }
 
